@@ -1,2 +1,4 @@
-# flakesrenderer
+# FlakesRenderer
 An OpenGL Renderer
+
+# Info
